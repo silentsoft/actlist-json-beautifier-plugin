@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/release-v1.0.0-blue.svg)
 [![license](https://img.shields.io/badge/license-Apache--2.0-green.svg)](https://github.com/silentsoft/actlist-json-beautifier-plugin/blob/master/LICENSE.txt)
-[![HitCount](http://hits.dwyl.com/silentsoft/actlist-json-beautifier-plugin.svg)](http://hits.dwyl.com/silentsoft/actlist-json-beautifier-plugin)
+[![Hits](https://hits.sh/github.com/silentsoft/actlist-json-beautifier-plugin.svg)](https://hits.sh)
 
 ## Features
   - Convert minimized json string to pretty json string.
